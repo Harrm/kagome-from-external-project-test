@@ -1,0 +1,4 @@
+[submodule "kagome"]
+	path = kagome
+	url = https://github.com/soramitsu/kagome
+    branch = $$CURRENT_BRANCH$$
